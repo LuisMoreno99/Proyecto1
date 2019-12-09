@@ -1,2 +1,2 @@
 # Proyecto1
-Este es un proyecto de pruba con git
+Este es un proyecto de prueba con git
